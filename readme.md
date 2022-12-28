@@ -1,0 +1,1 @@
+The goal of this project is to create a simple and lightweight yet robust filesystem for embedded devices. Key features are power failure tolerance, wear leveling, and the ability to work with bad sectors. There is no licence, anyone can use the code in any way for free, without any ristrictions and without any guarantees
